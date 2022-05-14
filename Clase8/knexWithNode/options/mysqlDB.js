@@ -1,7 +1,7 @@
 const options = {
     client: 'mysql',  
     connection: {
-        host:'192.168.64.2',       
+        host:'localhost',       
         user:'root',       
         password:'',
         database:'mibase'
