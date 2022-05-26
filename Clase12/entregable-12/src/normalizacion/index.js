@@ -1,1 +1,1 @@
-//export { normalizarMensajes } from './mensajes.js';
+export { normalizarMensajes } from './mensajes.js';
